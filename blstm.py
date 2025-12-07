@@ -16,7 +16,7 @@ from keras.layers import Dense, Dropout, LSTM, Bidirectional, LeakyReLU
 from keras.optimizers import Adamax
 
 from sklearn.model_selection import train_test_split
-
+2022031100515
 """
 Bidirectional LSTM neural network
 Structure consists of two hidden layers and a BLSTM layer
